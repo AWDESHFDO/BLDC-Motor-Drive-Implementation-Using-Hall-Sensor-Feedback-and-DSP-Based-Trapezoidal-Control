@@ -1,0 +1,1 @@
+# BLDC-Motor-Drive-Implementation-Using-Hall-Sensor-Feedback-and-DSP-Based-Trapezoidal-Control
